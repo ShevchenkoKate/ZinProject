@@ -130,7 +130,22 @@ body {
     color: white;
     position: absolute;
 }
+.freetime h2 {
+    font-family: 'Comic Sans MS';
+    position: absolute;
+}
 
+.title-freetime {
+    font-size: 4.5vw;
+    margin-left: 4%;
+    margin-right: 30%;
+    margin-top: -60%;
+    color: white;
+    background: #ff7220;
+    border: 10px solid #ff7220;
+    border-radius: 10px;
+
+}
 .text-block-freetime1 {
     font-size: 3.2vw;
     margin-left: 7%;
@@ -154,4 +169,17 @@ body {
     margin-left: 34.5%;
     margin-right: 5.5%;
     margin-top: -25%;
+}
+/*Map section*/
+.map h2 {
+    font-family: 'Comic Sans MS';
+    position: absolute;
+}
+
+.title-map {
+    font-size: 4.5vw;
+    margin-left: 4%;
+    margin-right: 54%;
+    margin-top: -57%;
+    color: white;
 }
